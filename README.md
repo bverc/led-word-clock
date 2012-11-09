@@ -9,6 +9,8 @@ Build Instructions
 A detailed explaination of the design process of hardware selection is available at:
 http://no8hacks.com/blog/2012/8/16/led-word-clock
 
+Interactive schematics and BOM are also available at: http://upverter.com/bverc/5d5df4dc0c286f73/LED-Word-Clock/
+
 TWI Driver (I2C)
 ----------------
 
